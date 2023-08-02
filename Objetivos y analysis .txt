@@ -1,0 +1,6 @@
+Creacion de una API
+
+      #Objetivos
+-Realizar una API rest que reciba una lista de oraciones en español y devuelva una lista de las entidades nombradas identificadas. ✔
+-Debe ser realizada con es_core_news_sm : modelo preentrenado para el procesamiento del lenguaje natural en español. ✔
+-la API debe aceptar una petición POST que sea procesada con JSON con una lista de oraciones en español✔
